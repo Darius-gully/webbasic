@@ -1,0 +1,27 @@
+h1{
+    background-color:gold;
+    border: 2px solid white ;
+    color:brown;
+    font-size: 80px;
+    justify-content:center;
+    display:flex;
+    margin-bottom: 0px;
+    padding-top: 20px;
+}
+
+
+body{
+    background-color: beige;
+    
+}
+img{
+    justify-content: center;
+
+    display: flex;
+}
+div{
+    justify-content: center;
+    display: flex;
+    background-color: aqua;
+    height: 300px ;
+}
